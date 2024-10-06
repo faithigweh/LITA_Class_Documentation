@@ -49,5 +49,7 @@ where Staffid = '1540
 
 ### Data Visualization
 
- 
+ ![alt text](?raw=true)
+
+ ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
