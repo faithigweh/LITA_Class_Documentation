@@ -8,7 +8,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ### Tool Used
 The following tools are used for Analysis;
 
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Microsoft Excel  [Download Here](https://www.microsoft.com)
 1. For Data Storage
 2. For Data Cleaning
 3. For Data Analysis
