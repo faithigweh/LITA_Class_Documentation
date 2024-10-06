@@ -22,22 +22,25 @@ In the initial phase of the Data cleaning and preparations, the following action
 2. Handling missing variables
 3. Data cleaning and formatting
 ### Exploratory Data Analysis 
+
 EDA is used to analyze the data set by answering some questions about the Data, such as;
 
-What is the overall sales trend?
-Which product are top sellers?
-What are the products on peak sales?
+- What is the overall sales trend?
+- Which product are top sellers?
+- What are the products on peak sales?
+  
 ### Data Analysis 
 This is where we include some basic lines of code/queries or even some of the DAX expressions used during analysis;
 
-Update Table 1
-Set email ='faith.ifemeh@gmail.com' 
-where Staffid = '1540'
-
+```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION TRUE
 
-### Data Visualization 
+Update Table 1
+Set email ='faith.ifemeh@gmail.com' 
+where Staffid = '1540
+
+### 
  
 
 GitHub for building Portfolio
