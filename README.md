@@ -28,5 +28,16 @@ EDA is used to analyze the data set by answering some questions about the Data, 
 What is the overall sales trend?
 Which product are top sellers?
 What are the products on peak sales?
+### Data Analysis 
+This is where we include some basic lines of code/queries or even some of the DAX expressions used during analysis;
+
+Update Table 1
+Set email = 'faith.ifemeh@gmail.com'
+where Staffid = '1540'
+
+SELECT * FROM TABLE1
+WHERE CONDITION TRUE
+### Data Visualization 
+
 
 GitHub for building Portfolio
