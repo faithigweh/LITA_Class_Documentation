@@ -16,11 +16,11 @@ The following tools are used for Analysis;
 - SQL - Structured Query Language for managing data in Relational Database Management System (RDMS) Download Here.
 - GitHub for building Portfolio
 ### Data Cleaning and Preparation
-In the initial phase of the Data cleaning and preparations, the following actions was performed;
+In the initial phase of the Data cleaning and preparations, the following actions;
 
-Data loading and inspection
-Handling missing variables
-Data cleaning and formatting
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
 ### Exploratory Data Analysis 
 EDA is used to analyze the data set by answering some questions about the Data, such as;
 
