@@ -16,6 +16,17 @@ For Data Analysis
 For Data Visualization
 SQL - Structured Query Language for managing data in Relational Database Management System (RDMS) Download Here.
 GitHub for building Portfolio
+### Data Cleaning and Preparation
+In the initial phase of the Data cleaning and preparations, the following actions was performed;
 
+Data loading and inspection
+Handling missing variables
+Data cleaning and formatting
+### Exploratory Data Analysis 
+EDA is used to analyze the data set by answering some questions about the Data, such as;
+
+What is the overall sales trend?
+Which product are top sellers?
+What are the products on peak sales?
 
 GitHub for building Portfolio
