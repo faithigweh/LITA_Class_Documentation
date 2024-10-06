@@ -50,3 +50,9 @@ where Staffid = '1540
 ### Data Visualization
 
  ![alt text,](https://github.com/faithigweh/LITA_Class_Documentation/blob/main/Screenshot_20241006-104904.jpg?raw=true)
+
+|Name|Location|Age|
+|----|--------|---|
+|John|Abuja|35|
+|Christine|Lagos|47|
+|Jessica|Port Harcourt|29|
