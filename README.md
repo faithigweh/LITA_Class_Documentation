@@ -8,14 +8,13 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ### Tool Used
 The following tools are used for Analysis;
 
-Microsoft Excel Download Here
-
+- Microsoft Excel Download Here
 For Data Storage
 For Data Cleaning
 For Data Analysis
 For Data Visualization
-SQL - Structured Query Language for managing data in Relational Database Management System (RDMS) Download Here.
-GitHub for building Portfolio
+- SQL - Structured Query Language for managing data in Relational Database Management System (RDMS) Download Here.
+- GitHub for building Portfolio
 ### Data Cleaning and Preparation
 In the initial phase of the Data cleaning and preparations, the following actions was performed;
 
