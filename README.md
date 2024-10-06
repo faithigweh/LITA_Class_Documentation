@@ -49,7 +49,4 @@ where Staffid = '1540
 
 ### Data Visualization
 
- ![alt text](?raw=true)
-
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
+ ![alt text,](https://github.com/faithigweh/LITA_Class_Documentation/blob/main/Screenshot_20241006-104904.jpg?raw=true)
